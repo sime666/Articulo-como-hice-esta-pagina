@@ -5,18 +5,15 @@ body{
 
 }
 
-#titulo{
+#titulos{
     text-align: center;
+    color: rgb(134, 0, 0);
     text-shadow:  #000000  3px 3px;
 }
-
 #fecha{
     text-align: center;
 }
 
-#titulosection{
-    text-align: center;
-}
 
 #articulo{
     text-align: center;
@@ -30,24 +27,12 @@ body{
     color: rgb(134, 0, 0);
 }
 
-aside {
-    text-align: center;
+#sugerencias {
+    float: inline-end;
+    margin-top: 10px;
 }
 
-#extra {
-    color: rgb(134, 0, 0);
-}
 
-#tituloaside {
-    text-shadow:  #000000  3px 3px;
-
-}
-
-#titulofooter {
-    text-shadow:  #000000  3px 3px;
-
-}
-
-footer{
-    text-align: center;
+#informacion {
+    float: left;
 }
