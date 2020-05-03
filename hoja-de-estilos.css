@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(18, 19, 18);
+    height: 100%;
+    font-size: large;
+
+}
+
+#titulo{
+    text-align: center;
+    text-shadow:  #000000  3px 3px;
+}
+
+#fecha{
+    text-align: center;
+}
+
+#titulosection{
+    text-align: center;
+}
+
+#articulo{
+    text-align: center;
+}
+
+#aside {
+    text-align: center;
+}
+
+#lista{
+    color: rgb(134, 0, 0);
+}
+
+aside {
+    text-align: center;
+}
+
+#extra {
+    color: rgb(134, 0, 0);
+}
+
+#tituloaside {
+    text-shadow:  #000000  3px 3px;
+
+}
+
+#titulofooter {
+    text-shadow:  #000000  3px 3px;
+
+}
+
+footer{
+    text-align: center;
+}
